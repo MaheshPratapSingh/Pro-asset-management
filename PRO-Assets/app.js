@@ -1,0 +1,1 @@
+﻿var proAssertsApp = angular.module('ProAssertsApplication', ['ngRoute']);

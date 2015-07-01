@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!-- SPELLS -->
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script>
+
+    <!--APPLICATION STYLES-->
+
+    <link href="Content/Styles/main.min.css" rel="stylesheet" />
+
+    <!--APPLICATION SCRIPTS-->
+    <script src="app.js"></script>
+    <script src="Route/routes.js"></script>
+    <script src="Factory/TilesFactory.js"></script>
+
+    <script src="Controllers/HomeController.js"></script>
+    <script src="Controllers/DefaultController.js"></script>
+
+
+    <title>PRO ASSERTS</title>
+</head>
+
+
+<body data-ng-app="ProAssertsApplication">
+    <h1 class="heading1">Pro Asserts</h1>
+    <div id="mainContainer">
+        <div ng-view></div>
+    </div>
+</body>
+</html>

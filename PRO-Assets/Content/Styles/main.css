@@ -1,0 +1,61 @@
+#mainContainer {
+  width: 70%;
+  margin-top: 5%;
+  font-family: monospace;
+  margin-left: 250px;
+}
+.heading1 {
+  text-align: center;
+  display: block;
+  margin-left: .5em;
+  color: #c21626;
+  font-size: 2em;
+  line-height: 32px;
+  font-family: monospace;
+}
+.tileContainer {
+  width: 35%;
+  margin-top: 10%;
+  margin-left: 25%;
+}
+.tile {
+  float: left;
+  margin: 0 10px 10px 0;
+  width: 136px;
+  height: 136px;
+  background-color: #c21626;
+  list-style: none;
+}
+.tileName {
+  position: relative;
+  display: block;
+  margin: 0 auto;
+  margin-top: 55px;
+  width: 136px;
+  height: 136px;
+  color: #fff;
+  vertical-align: middle;
+  text-align: center;
+  text-decoration: none;
+  font-size: large;
+  text-transform: capitalize;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+a:active {
+  text-decoration: none;
+}
+@media only screen and (orientation: portrait) {
+  #mainContainer {
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 0px;
+  }
+}

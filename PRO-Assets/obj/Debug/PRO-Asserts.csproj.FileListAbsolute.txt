@@ -1,0 +1,5 @@
+c:\users\k.makam\documents\visual studio 2012\Projects\PRO-Asserts\PRO-Asserts\bin\PRO-Asserts.dll
+c:\users\k.makam\documents\visual studio 2012\Projects\PRO-Asserts\PRO-Asserts\bin\PRO-Asserts.pdb
+c:\users\k.makam\documents\visual studio 2012\Projects\PRO-Asserts\PRO-Asserts\obj\Debug\PRO-Asserts.csprojResolveAssemblyReference.cache
+c:\users\k.makam\documents\visual studio 2012\Projects\PRO-Asserts\PRO-Asserts\obj\Debug\PRO-Asserts.dll
+c:\users\k.makam\documents\visual studio 2012\Projects\PRO-Asserts\PRO-Asserts\obj\Debug\PRO-Asserts.pdb

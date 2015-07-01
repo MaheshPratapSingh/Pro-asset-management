@@ -1,0 +1,11 @@
+﻿<div id="homeContainer">
+    <div class="tileContainer">
+        <div data-ng-repeat="action in UserActionList">
+            <div class="tile">
+                <a href="{{'#/'+action.Url}}">
+                    <span class="tileName">{{action.Name}}</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
